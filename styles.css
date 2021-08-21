@@ -1,0 +1,41 @@
+:root{
+    --primary-colour: #0e1f4b;
+    --secondary-colour:#60A5FA;
+    --tertiary-colour:#9CA3AF;
+}
+.body{
+   
+}
+.main-Container{
+      text-align: center;
+      margin-top: 10rem;
+      border-radius: 1rem;
+      background-color: var(--primary-colour);
+      color: var(--secondary-colour);
+      width:60%;
+      margin: auto;
+}
+.label-Text{
+    display: block;
+    font-size:xx-large;
+    margin: 2rem;
+}
+.input-Area{
+    font-size:x-large;
+    border-radius: 0.3rem;
+    margin-bottom: 2rem;
+}
+.btn-Check{
+    font-size: x-large;
+    display: block;
+    margin: auto;
+    border-radius: 0.3rem;
+    margin-bottom: 2rem;
+    padding: 0.2rem 0.5rem;
+}
+.output-Text-Area{
+          
+    width: 37vw;
+    height: 8vh;
+    border-radius: 0.3rem;
+}
